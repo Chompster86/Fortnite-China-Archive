@@ -27,6 +27,7 @@ This Version Of Fortnite Was Up From 2018-2021, But Early Limited Tests Happened
 | Installer v172        	 |  ++Fortnite+Release-9.01-CL-6428087-CN	   	 |	 [Download](https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.172_0_tgod_signed.exe)   |		[Not Available]() |
 | Installer v184        	 |  ++Fortnite+Release-9.41-CL-7609292-CN	   	 |	 [Download](https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.184_0_tgod_signed.exe)   |		[Not Available]() |
 | Installer v186        	 |  ++Fortnite+Release-10.00-CL-7672420-CN	   	 |	 [Download](https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.186_10019_tgod_signed.exe)   |		[Not Available]() |
+| Installer v190        	 |  ++Fortnite+Release-10.10-CL-7937993-CN	   	 |	 [Download](https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.190_10018_tgod_signed.exe)   |		[Not Available]() |
 | Installer v199        	 |  ++Fortnite+Release-10.40-CL-9302865-CN	   	 |	 [Download](https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.199_10018_tgod_signed.exe)   |		[Not Available]() |
 | Installer v201        	 |  ++Fortnite+Release-11.01-CL-9695230-CN	   	 |	 [Download](https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.201_0_tgod_signed.exe)   |		[Not Available]() |
 | Installer v212        	 |  ++Fortnite+Release-11.31-CL-10760473-CN	   	 |	 [Download](https://down.qq.com/Fortnite/dltools/000212JP1CIDUVNP/RailGame_2000196_1-0.0.0.212_0_tgod_signed.exe)   |		[Not Available]() |
@@ -82,7 +83,6 @@ https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.178_10018_tgod_sig
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.182_10018_tgod_signed.exe
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.185_10018_tgod_signed.exe
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.189_10018_tgod_signed.exe
-https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.190_10018_tgod_signed.exe
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.191_10018_tgod_signed.exe
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.192_10018_tgod_signed.exe
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.194_10018_tgod_signed.exe
